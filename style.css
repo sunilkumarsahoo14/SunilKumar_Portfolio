@@ -81,7 +81,9 @@ nav ul li a:hover::after{
     justify-content: space-between;
     flex-wrap: wrap;
 }
-
+.about-arrow{
+    color: #ff004f;
+}
 .dowithme{
     text-decoration: none;
     color: #ff004f;
